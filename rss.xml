@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[whatthetest2]]></title>
         <description><![CDATA[whatthetest2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/whatthetest2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 16:04:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 16:07:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/whatthetest2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f372db76-c050-4c5b-841c-48666c400d00.jpg">]]></description>
+            <link>https://thegrid.ai/whatthetest2/715300d5-5a09-47a1-b6ed-e9fb543c2e9b/index.html</link>
+            <guid isPermaLink="false">715300d5-5a09-47a1-b6ed-e9fb543c2e9b</guid>
+            <pubDate>Wed, 27 Jan 2016 16:06:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02d3a261-c6cd-4874-b5e8-08bd1953eaee.jpg">]]></description>
-            <link>undefined431af971-bd7c-4862-94ed-1bba2374b7ea/index.html</link>
+            <link>https://thegrid.ai/whatthetest2/431af971-bd7c-4862-94ed-1bba2374b7ea/index.html</link>
             <guid isPermaLink="false">431af971-bd7c-4862-94ed-1bba2374b7ea</guid>
             <pubDate>Wed, 27 Jan 2016 16:04:41 GMT</pubDate>
         </item>
