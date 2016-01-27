@@ -1,7 +1,7 @@
 name: whatthetest2
 favicon: null
-layout_spectrum: 0.3096227429341525
-typography_spectrum: 0.8138409988023341
+layout_spectrum: 0.69469
+typography_spectrum: 0.31449
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#ffffff'
+    - '#000000'
+    - '#475e12'
+    - '#719a20'
+    - '#b1bb85'
   brandStrength: 0.15650419960729778
   lightness: 0.8443512674421072
   saturation: 0.7615106429439038
